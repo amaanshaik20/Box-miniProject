@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    color: white;
+    font-family: serif;
+}
+small{
+    font-size: 10px;
+    /* padding-top: 100px; */
+}
+.mar{
+    background-color: red;
+}
+button:hover{
+    cursor: pointer;
+}
+h6{
+    color: white;
+}
+h3{
+    margin-top: 8px;
+}
+p{
+    font-size: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.box{
+    background-color: rgb(38, 38, 224);
+    height: 200px;
+    width: 300PX;
+    margin: 10% 30%;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+
+.content{
+    margin: 30px 40px 30px 20px;
+    width: 250px;
+}
+button{
+    color: rgb(38, 38, 224);
+    background-color: white;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 10px;
+    height: 20px;
+    /* width: 70px; */
+}
